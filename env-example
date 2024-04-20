@@ -1,0 +1,6 @@
+# Database -> docker-compose
+DB_HOST=mysql
+DB_NAME=back_lojaweb
+DB_PORT=3306
+DB_USER=admin
+DB_PASSWORD=admin
